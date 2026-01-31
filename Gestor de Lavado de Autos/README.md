@@ -34,3 +34,5 @@ Aplicación en Python para registrar clientes, vehículos y servicios de lavado.
  - Crear copia de seguridad de la base de datos
  - Total de dinero generado por dia
  - Sistema de login
+
+ // El archivo princpal es "GestorAutos.py", los otros son archivos de prueba que desarrolle para encontrar la lógica a ciertas funciones.
