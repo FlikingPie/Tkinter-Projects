@@ -35,4 +35,4 @@ Aplicación en Python para registrar clientes, vehículos y servicios de lavado.
  - Total de dinero generado por dia
  - Sistema de login
 
- // El archivo princpal es "GestorAutos.py", los otros son archivos de prueba que desarrolle para encontrar la lógica a ciertas funciones.
+ """ El archivo principal es "GestorAutos.py", los otros son archivos de prueba que desarrolle para encontrar la lógica a ciertas funciones."""
