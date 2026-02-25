@@ -1,2 +1,17 @@
-# Tkinter-Projects
-En este repositorio estaré subiendo y actiualizando algunos proyectos en los que he estado trabajando desde Diciembre del 2025.
+# WORD GUESSING GAME
+
+Juego de adivinanza de palabras basado en pistas.
+
+## INSTALACIÓN
+- Descargar el archivo `win.rar`.
+- Abrir el archivo **"Word Guess Game v2.0"**.
+
+## INFORMACIÓN 
+- Descargar archivo **"contenido.rar"**.
+
+## TECNOLOGÍAS
+- Python  
+- Módulos: Tkinter, Random, Datetime
+
+## AUTOR
+- Utrilla Solis, Angel Kyle
